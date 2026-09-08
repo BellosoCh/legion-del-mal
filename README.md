@@ -9,6 +9,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 
 ## Prueba jbelloso
 verificar carga local vs remota
+verificar carga local vs remota github
 
 ## Estructura de la organización!! Prueba jBelloso
 
