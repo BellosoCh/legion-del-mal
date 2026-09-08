@@ -12,6 +12,7 @@ verificar carga local vs remota
 verificar carga local vs remota github
 verificar carga local vs remota github 3
 verificar carga local vs remota github 4
+verificar carga local vs remota github 5 desde local
 
 ## Estructura de la organización!! Prueba jBelloso
 
