@@ -13,6 +13,7 @@ verificar carga local vs remota github
 verificar carga local vs remota github 3
 verificar carga local vs remota github 4
 verificar carga local vs remota github 5 desde local
+verificar carga local vs remota github 6 desde local para probar main protegido ruleset
 
 ## Estructura de la organización!! Prueba jBelloso
 
